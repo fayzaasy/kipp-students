@@ -1,25 +1,72 @@
 ---
 title: "Five-Language Translation Portfolio"
 week: 4
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20"
 assessor_score: "—"
-description: "Satu meaning untuk lima person atau character."
-categories: [Fondasi, Language]
+description: "Evidence adaptasi repertoire dan language ke lima target berbeda tanpa mengubah core meaning."
+categories: [Fondasi, Adaptasi Bahasa]
 ---
 
 ## Kompetensi target
 
 Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 
-## Evidence wajib
+## Core Meaning
 
-- Lima versi untuk friend, technical peer, manager, customer, dan public.
-- Alasan perubahan language dan repertoire.
-- Feedback understanding dari sedikitnya satu target.
+**Fakta yang tidak boleh berubah:** Aplikasi purwarupa UI/UX Nusatani menggunakan sensor untuk memantau kelembapan tanah sawah, dan akan mengirimkan peringatan otomatis ke ponsel (HP) petani ketika tanah sudah masuk fase kritis atau kering, sehingga mereka tidak perlu mengecek secara manual.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 4](../examples/week-04.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Lima Versi Language
+
+| Target / Character | Versi Language | Alasan Adaptasi (Rationale) |
+|---|---|---|
+| **Anak-Anak (~10 thn)** | "Aplikasi ini kayak robot pintar buat ngomong sama tanah. Kalau tanahnya lagi haus, robotnya ngirim pesen ke HP Pak Tani: 'Pak, aku haus, tolong siram dong!'" | Menggunakan analogi makhluk hidup yang akrab ("robot" dan "haus") untuk menyederhanakan mekanisme telemetri data. |
+| **Friend** (Sahabat di luar jurusan) | "Gila sih ini, aplikasinya bikin sawah lo bisa *update status* langsung ke HP petaninya kalo lagi kekeringan, jadi gausah capek jalan ngecek kesana tiap hari." | Bahasa sangat kasual. Penggunaan *slang* atau metafora kekinian (*update status*) sangat mudah dicerna oleh kalangan mahasiswa umum. |
+| **Technical Peer** (Rekan *Developer* / UI-UX) | "Nusatani nge-integrasiin data dari *hardware node sensor* secara asinkron buat nge-*trigger* logic *alerting* penyiraman langsung di *dashboard* Figma kita." | Presisi istilah teknis (*node*, *asinkron*, *trigger*, *dashboard*) dipertahankan demi efisiensi diskusi logika pemrograman dan perancangan. |
+| **Manager** (Dosen Pembimbing / Juri) | "Sistem antarmuka Nusatani dirancang untuk memitigasi risiko gagal panen lewat notifikasi dini berbasis IoT. Ini akan menghemat biaya operasional dan efisiensi waktu observasi petani secara signifikan." | Fokus pada penawaran nilai investasi, penyelesaian masalah (*risk mitigation*), serta perhitungan bisnis/efisiensi untuk memikat juri. |
+| **Public** (Pihak Publik Luas / Warga) | "Nusatani adalah layanan untuk membantu petani memantau kelembapan tanah sawahnya dari rumah, dan memberi tahu langsung ke HP jika tanahnya butuh disiram." | Bahasa informatif, sangat ringkas, membuang semua *jargon*, dan langsung fokus pada hasil atau manfaat akhir yang bisa dirasakan audiens. |
+
+## Evidence Understanding (Feedback & Adaptasi)
+
+Saya melakukan uji coba transkrip versi **Friend / Customer awam** kepada sahabat saya, Natasha, yang bukan berasal dari rumpun keilmuan IT. 
+
+**Respons Target:** Natasha langsung memahami konsep sensor tanpa perlu dijelaskan arsitektur IoT-nya. Ia menjawab: *"Wah anjir keren juga, jadi kayak ada sensor gitu ya di sawahnya trus ngirim notif ke hp?"*
+
+**Adaptasi & Pemahaman:** Uji coba ini memvalidasi bahwa penghilangan jargon telemetri berhasil. Saya sengaja menggunakan diksi "*update status*" sebagai proksi konsep *real-time fetching*, dan target merespons positif.
+
+## Analisis dan Batas Penggunaan AI
+
+- Saya menggunakan AI sebagai *feedback partner* untuk mendeteksi apakah draf saya masih mengandung *curse of knowledge* (kutukan pengetahuan teknis). 
+- **Batasan (Authority):** Ketika AI menyarankan saya untuk menambahkan diksi "Algoritma Machine Learning prediktif" pada *draf* Manajer/Juri agar terkesan pintar, saya **menolaknya keras** karena fitur tersebut belum kami kembangkan di Figma. Menambahkan klaim palsu akan merusak kredibilitas profesional saya di mata juri.
+
+## Self-assessment
+
+| Dimensi | Skor | Alasan terhadap descriptor rubrik |
+|---|---:|---|
+| Person & Character | 4 | Lima audiens dibedakan tajam berdasarkan batas hierarki pemahaman teknis dan prioritas kepentingannya (Juri bisnis vs Teman sebaya). |
+| Objective & State | 4 | *Core meaning* tentang peringatan kondisi tanah dari jarak jauh tetap utuh dan konsisten tanpa distorsi di kelima versi. |
+| Repertoire, Language & AI | 4 | Terjadi kelenturan bahasa (*code-switching*) yang drastis; memegang kendali *Authority* penuh dengan menolak paksaan AI untuk menambah klaim palsu. |
+| Response & Adaptation | 4 | Uji coba empiris pada teman (Natasha) berhasil memancing pemahaman *bottom-line* teknologi secara natural tanpa paksaan. |
+| Agreement, Action & Relationship | 4 | Introspeksi mengenai bias *curse of knowledge* di lingkungan mahasiswa IT dijabarkan dengan relevan. |
+
+**Total: 20/20 — Sangat Kompeten.**
 
 {{< include ../includes/evidence-template.md >}}
+
+***
+
+## Evidence Tambahan
+**Bukti Uji Coba Terjemahan (*Curse of Knowledge Check*):**
+> **[22/09/26, 16:20:10] Fayza:** natasha, lo kan bukan anak IT nih, gw mau ngetes ide aplikasi lomba gw kira2 bahasa gw masuk akal ga
+> **[22/09/26, 16:21:05] Natasha:** hahah boleh sini, apaan tuh?
+> **[22/09/26, 16:22:30] Fayza:** bayangin aplikasi yg bikin sawah bisa update status langsung ke HP petaninya kalo tanahnya lagi kering, jd mereka gausah capek jalan ngecek ke sawah tiap hari. 
+> **[22/09/26, 16:24:12] Natasha:** wah anjir keren juga, jadi kayak ada sensor gitu ya di sawahnya trus ngirim notif ke hp? 
+> **[22/09/26, 16:25:01] Fayza:** YESS bener bgt!! nangkep kan maksud gw? gausah pake bahasa ribet iot iot segala wkwk
+> **[22/09/26, 16:25:35] Natasha:** hooh nangkep nangkep, bahasanya gampang dimengerti sih buat orang awam kek gw wkwk
+
+::: {.callout-note title="Penilaian Asesor"}
+**Skor:** - / 20
+**Evidence yang mendukung:** -
+**Prioritas perbaikan:** -
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

@@ -1,8 +1,8 @@
 ---
 title: "Character Map"
 week: 1
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
@@ -12,14 +12,76 @@ categories: [Fondasi, Person]
 
 Membedakan person, personality, dan character serta memilih objective, repertoire, dan language yang sesuai.
 
-## Evidence wajib
+## Evidence, AI, dan feedback
 
-- Lima character dari sedikitnya tiga domain kehidupan.
-- Objective, responsibility, repertoire, dan risiko tiap character.
-- Satu contoh perubahan language ketika character berubah.
+**Bukti Fisik (Transkrip Asli WhatsApp):**
+*(Terdapat di bagian bawah dokumen pada "Evidence Tambahan")*
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+- **AI:** Digunakan setelah percakapan untuk membantu saya merefleksikan dan memetakan kelima domain kehidupan ke dalam tabel secara terstruktur. AI tidak digunakan untuk menyusun teks balasan kepada rekan organisasi, melainkan murni sebagai cermin untuk memisahkan *story* (rasa bersalah karena capek) dan *fakta* (batas energi fisik).
+- **Refleksi:** Saya menyadari bahwa saya sering terjebak dalam *story* bahwa "saya harus selalu sedia 24/7 untuk organisasi", yang akhirnya justru membuat saya kelelahan dan berpotensi menghilang (*ghosting*).
+- **Next practice:** Ketika merasa energi habis, saya tidak akan lari atau mendiamkan pesan masuk, melainkan menetapkan batasan waktu rehat secara eksplisit (misal: "Beri aku waktu 1 jam") sebelum kembali bekerja.
+
+## Lima character
+
+| Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
+|---|---|---|---|---|
+| **Diri Sendiri** — Pembelajar & *Stress Manager* | Diri sendiri | Mengelola stres, memulihkan energi lewat hobi merajut | Dialog internal yang tenang, memaafkan diri, hening | Terlalu keras pada diri sendiri; latih penerimaan batas fisik |
+| **Keluarga** — Anak & Kolaborator | Ayah di rumah | Berkolaborasi (seperti proyek bot Telegram) dengan hangat | Bahasa santai, kasual, humoris | Kurang profesional saat beda pendapat; latih diskusi dua arah |
+| **Organisasi** — Sekretaris Angkatan STEI-K 25 | Pengurus BPA & Angkatan | Menjaga kelancaran arus informasi dan administrasi | Jelas, terstruktur, asertif, dan sigap | Kewalahan mental (*burnout*); latih *time blocking* & buat batasan waktu respon |
+| **Komunitas** — Product Manager Tim | Tim Lomba Kotak Nusantara / Nusatani | Memastikan alur *progress* desain dan tenggat tercapai | Pengecekan progres (*follow-up*), negosiasi tenggat | Terdengar *bossy*; gunakan pertanyaan ("Ada kendala apa?") sebelum menagih tugas |
+| **Publik** — Mahasiswa ITB | Publik Luas / Audiens Eksternal | Menyampaikan gagasan akademis dan inovasi dengan lugas | Bahasa formal, inklusif, dan objektif | Terjebak jargon teknis (*curse of knowledge*); latih penggunaan analogi sederhana |
+
+## 1. Lembar Kerja Mahasiswa (Peta Karakter)
+
+**Nama Mahasiswa:** Fayza Kamilia
+**Tanggal Pengerjaan:** 20 September 2026
+
+## Episode yang dianalisis
+
+**Konteks:** Saya sedang merasa sangat kelelahan secara fisik dan mental akibat beban tugas. Di saat bersamaan, Nayaka (rekan di BPA) menagih draf notulensi rapat untuk segera dibagikan ke grup angkatan. Awalnya muncul *story*: "Aduh, aku nggak becus banget, harusnya ini udah kelar, aku balas nanti aja deh kalau udah *mood*." Namun, faktanya saya hanya butuh istirahat sejenak agar bisa fokus merapikan dokumen tersebut.
+
+**Objective:** Beralih dari insting reaktif (ingin lari/ *ghosting* dari tanggung jawab karena capek) menuju komunikasi asertif untuk menetapkan batasan waktu istirahat yang transparan.
+
+**Transkrip Adaptasi (Kutipan Langsung):**
+> **Nayaka (Menagih Tugas):** "fayzaa, draft notulensi rapat bpa tadi udah kelar belum ya? mau aku share ke grup nih."
+> **Saya (Adaptasi - Problem Solving & Boundary):** "sorry banget aku lagi bener bener capek banget nih kepalanya, boleh kasih aku waktu rehat 1 jam gak? aku mau nenangin diri dulu, ntar jam setengah 9 aku beresin..."
+> **Nayaka (Kesepakatan):** "oalah oke oke santai aja fay, take your time."
+
+Respons Nayaka yang memaklumi memvalidasi bahwa asumsi buruk saya salah. Hal ini mengubah *repertoire* saya dari panik menjadi tenang, memungkinkan saya untuk melakukan *recharge* (merajut) tanpa rasa bersalah.
+
+## Perubahan language
+
+Sebagai **teman biasa**, saya mungkin akan curhat panjang lebar, "Gila Nay, aku capek banget mau mati rasanya, besok aja ya." Namun, dengan mengambil peran sebagai **Sekretaris Angkatan yang profesional**, bahasa saya berubah menjadi negosiasi waktu yang bertanggung jawab. Saya tetap menunjukkan emosi ("kepala capek banget") sebagai bentuk *core care* pertemanan, tetapi menambahkan komitmen tindakan ("jam setengah 9 aku beresin") sebagai bentuk *responsibility*.
+
+## Self-assessment
+
+| Dimensi | Skor | Alasan |
+|---|---:|---|
+| Person & Character | 4 | Pemetaan kelima karakter sangat spesifik dan berhasil merumuskan risiko sekaligus latihan perbaikan perilaku untuk masing-masing peran. |
+| Objective & State | 4 | State awal (panik/kelelahan) dan state tujuan (istirahat tanpa rasa bersalah) terdefinisi eksplisit. |
+| Repertoire, Language & AI | 4 | Perubahan language ditunjukkan rasional (dari *ghosting* menjadi permintaan waktu rehat); AI dimanfaatkan untuk refleksi pemisahan fakta dan asumsi. |
+| Response & Adaptation | 4 | Adaptasi *shifting* terjadi saat energi terkuras, memilih bersikap transparan daripada lari dari masalah. |
+| Agreement, Action & Relationship | 4 | Menghasilkan kesepakatan spesifik berupa *action plan* "rehat 1 jam" sambil tetap menjaga kredibilitas organisasi. |
+
+**Total: 20/20 — Sangat Kompeten.**
 
 {{< include ../includes/evidence-template.md >}}
+
+***
+
+## Evidence Tambahan
+
+**Transkrip Chat WhatsApp (Membangun Boundary Organisasi)**
+> **[08/09/26, 19:15:20] Nayaka:** fayzaa, draft notulensi rapat bpa tadi udah kelar belum ya? mau aku share ke grup nih 
+> **[08/09/26, 19:15:35] Nayaka:** kalau udah kirim link nya yaa
+> **[08/09/26, 19:20:00] Fayza:** halo nayakaaa
+> **[08/09/26, 19:20:45] Fayza:** sorry banget aku lagi bener bener capek banget nih kepalanya, boleh kasih aku waktu rehat 1 jam gak? aku mau nenangin diri dulu, ntar jam setengah 9 aku beresin dan langsung aku kirim linknya
+> **[08/09/26, 19:22:10] Nayaka:** oalah oke oke santai aja fay, take your time
+> **[08/09/26, 19:22:30] Fayza:** makasih ya nayyy, ntar ku kabarin
+
+::: {.callout-note title="Penilaian Asesor"}
+**Skor:** - / 20
+**Evidence yang mendukung:** -
+**Prioritas perbaikan:** -
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
