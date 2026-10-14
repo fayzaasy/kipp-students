@@ -1,16 +1,16 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20"
 assessor_score: "—"
-description: "Evidence perubahan dari reaction menuju response."
+description: "Evidence pengelolaan multiple states, trade-off, dan pergeseran narasi internal."
 categories: [Fondasi, Intra-Self]
 ---
 
 ## Kompetensi target
 
-Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Memisahkan event, fact, story, emotion, internal character, choice, dan action, serta mengelola trade-off di antara beberapa prioritas.
 
 ## Evidence wajib
 
@@ -18,8 +18,64 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 - Initial story dan sedikitnya dua alternative narratives.
 - Internal agreement dan bukti tindakan berikutnya.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Episode komunikasi dengan diri sendiri
+
+**Peristiwa (Fakta Objektif):** Nilai UTS Kimia TPB saya dirilis di sistem dan angkanya berada di bawah standar kelulusan yang saya targetkan. Namun, masa perkuliahan masih berjalan dan masih ada ujian akhir (UAS).
+
+**Emosi & Tokoh Internal:** Terjadi pergulatan batin. Saya merasa sangat kecewa (10/10), dada sesak, dan bahu lemas seketika. Ruang batin saya dikuasai oleh dua tokoh internal:
+1. **Sang Korban (Pesimis):** Memvonis bahwa otak saya tidak ditakdirkan untuk mengerti Kimia.
+2. **Sang Pejuang (Optimis):** Memiliki semangat tertahan (8/10) karena masih ingin memperbaiki nilai.
+
+## Pemisahan Story dan Alternative Narratives
+
+**Initial Story (Narasi Korban & Malapetaka):** 
+"Aku emang nggak bakat di Kimia dari dulu. Udah belajar juga percuma, soalnya terlalu susah. Otakku nggak nyambung ke sini dan aku pasti bakal gagal di matkul TPB ini." *(Komentar: Terjadi peleburan antara satu fakta nilai yang rendah dengan vonis identitas masa depan).*
+
+**Alternative Narrative 1 (Narasi Analitis - Membedah Fakta):** 
+"Faktanya, yang gagal adalah nilai UTS ini, bukan masa depanku di ITB. Asumsi bahwa aku 'pasti gagal' belum terbukti karena UAS masih ada dan persentasenya besar. Hal yang ada di bawah kendaliku sekarang adalah cara dan alokasi waktu untuk belajar Kimia di minggu-minggu berikutnya."
+
+**Alternative Narrative 2 (Narasi Pertumbuhan & Trade-off):** 
+"Wajar aku kecewa (10/10) karena nilai ini penting buatku. Kegagalan ini adalah *feedback* jujur bahwa metode Sistem Kebut Semalam (SKS) yang aku terapkan kemarin tidak efektif. Aku harus mengorbankan waktu santai di hari biasa untuk membangun rutinitas belajar. Menjadwalkan belajar bersama teman yang lebih paham jauh lebih logis daripada meratapi nasib."
+
+## Internal Agreement dan Action
+
+**Internal Agreement:** 
+Kesepakatan internal saya adalah berhenti memberikan label "bodoh/tidak bakat" pada diri sendiri. Saya mengalihkan kendali dari *Sang Korban* kepada perancangan strategi yang lebih taktis. 
+
+**Bukti Tindakan (Action):** 
+1. **Tindakan Relasi Akademik:** Saya langsung menghubungi Suci, teman seangkatan yang mendapat nilai bagus, untuk meminta izin belajar bersama dan menanyakan materi ke depannya.
+2. **Tindakan Manajemen Waktu:** Saya merombak *time blocking* mingguan saya untuk menyicil materi Kimia TPB tanpa menunggu waktu ujian tiba.
+
+## Self-assessment
+
+| Dimensi | Skor | Alasan |
+|---|---:|---|
+| Person & Character | 4 | Berhasil mengidentifikasi tokoh internal (Sang Korban vs Sang Pejuang) dan menghentikan label identitas negatif ("aku nggak bakat"). |
+| Objective & State | 4 | Mengelola state emosi dari kekecewaan ekstrem (10/10) menjadi motivasi untuk membangun strategi ulang. |
+| Repertoire, Language & AI | 4 | Memisahkan fakta (satu nilai ujian) dari story/asumsi (pasti gagal di matkul ini) secara presisi dan logis. |
+| Response & Adaptation | 4 | Merespons guncangan nilai dengan beradaptasi memperbaiki pola belajar dan tidak berlarut dalam siklus *self-pity*. |
+| Agreement, Action & Relationship | 4 | Mencapai kesepakatan tindakan yang konkret (menghubungi rekan untuk sesi mentoring sejawat) yang terbukti dijalankan di transkrip. |
+
+**Total: 20/20 — Sangat Kompeten.**
 
 {{< include ../includes/evidence-template.md >}}
+
+***
+
+## Evidence Tambahan
+
+**Transkrip Chat WhatsApp (Mencari Dukungan Eksternal)**
+> **[02/10/26, 09:12:05] Fayza:** suciii, nilai kimia tpb udah keluar belum di kamu?
+> **[02/10/26, 09:12:45] Suci:** udah fayy, puji tuhan aman, kamu gmn?
+> **[02/10/26, 09:15:10] Fayza:** jelek bgt ci kecewa aku 10/10 dah wkwkwk kayaknya emang aku ga bisa kimia dah 
+> **[02/10/26, 09:16:05] Suci:** eh jangan gitu, masih ada UAS tau, presentasenya gede
+> **[02/10/26, 09:18:20] Fayza:** iya sih.. aku abis mikir mikir kayaknya kemaren aku salah deh belajarnya mepet bgt
+> **[02/10/26, 09:19:15] Fayza:** mau perbaikin time management deh abis ini, boleh ngga besok besok aku numpang nanya soal ke kamu kalo lagi sesi belajar kimia ku? 
+> **[02/10/26, 09:20:10] Suci:** bolehh bangettt, ayo kita belajar bareng aja ntar ku ajarin
+
+::: {.callout-note title="Penilaian Asesor"}
+**Skor:** - / 20
+**Evidence yang mendukung:** -
+**Prioritas perbaikan:** -
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

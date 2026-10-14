@@ -1,25 +1,72 @@
 ---
-title: "Professional Discovery Interview"
+title: "Discovery Interview Journal"
 week: 5
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "20"
 assessor_score: "—"
-description: "Discovery menuju shared problem statement."
-categories: [Professional, Discovery]
+description: "Evidence penggalian akar masalah (discovery), perubahan asumsi, dan perumusan problem statement."
+categories: [Fondasi, Discovery]
 ---
 
-## Kompetensi target
+## Initial Assumption dan Rencana Discovery
 
-Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Sebagai desainer UI/UX untuk *project* Nusatani, saya **berasumsi** bahwa para petani di pedesaan membutuhkan *dashboard* aplikasi seluler yang canggih, kaya fitur visual, dan memuat berbagai grafik analisis data untuk memantau sawah mereka. Saya mewawancarai "Nabila", rekan yang mewakili sudut pandang kondisi *user* lapangan, untuk menguji rancangan awal tersebut sebelum saya membuat *High-Fidelity* desain di Figma.
 
-## Evidence wajib
+**Pertanyaan utama (Discovery):**
+1. Menurutmu, apakah petani di lapangan bakal sering buka HP untuk ngecek grafik?
+2. Secara fisik, apa saja rintangan mereka saat memegang HP di sawah?
+3. Masalah lingkungan alam apa yang mengganggu visibilitas?
+4. Apa kondisi yang paling ideal atau aman untuk pekerjaan mereka?
 
-- Initial assumption dan pertanyaan discovery.
-- Transcript/paraphrase serta problem impact dan constraint.
-- Shared problem statement yang dikonfirmasi partner.
+## Potongan Transcript Wawancara
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+> **Saya:** "bilaa, gw mau nanya dong untuk riset UI UX gw. menurut lo kalo petani di lapangan dikasih dashboard aplikasi di HP yg isinya grafik kelembapan tanah, mereka bakal sering buka ga sih?"
+> **Nabila:** "hmm jujur kayanya ngga deh fay. lo bayangin aja mereka kan lagi nyangkul, tangannya belepotan lumpur, masa iya harus lap tangan dulu buat scroll HP?"
+> **Saya (Penggalian Hambatan/Constraint):** "ohhh iya bener juga anjir, tangannya kotor ya.. trus kendala lainnya apa kira2 bil?"
+> **Nabila:** "cahaya matahari sih. di sawah kan panas mentereng, layar HP suka silau ga keliatan. mereka kynya butuh yg gaperlu dilihat langsung deh, pokoknya tau beres aja."
+> **Saya (Paraphrase Ide Baru):** "oh paham paham, berarti sebenernya mereka butuh cara biar tau tanahnya kritis tanpa harus nyentuh layar ya? misal alert bunyi suara / geter keras doang gitu?"
+> **Nabila:** "yuppp exactly! yg penting fungsional tanpa nambah ribet kerjaan mreka."
+
+## Pembaruan Pembacaan
+
+Asumsi awal saya tentang "petani butuh aplikasi grafis yang visual dan lengkap" hancur seketika oleh empati lapangan. Hasil *Discovery* membuktikan bahwa merancang desain dengan estetika visual tinggi justru berlawanan dengan realitas fisik petani (tangan kotor lumpur, layar terpapar matahari/*glare*). 
+
+**Shared problem statement yang dikonfirmasi Nabila:**
+> "Petani yang bekerja di lapangan mengalami kesulitan memantau kelembapan tanah karena keterbatasan fisik (tangan berlumur lumpur) dan visibilitas layar (silau matahari terik). Mereka membutuhkan notifikasi berwujud peringatan sensorik pasif (seperti alarm suara atau getaran maksimum) yang dapat disadari seketika tanpa harus menyentuh layar perangkat mereka."
+
+## Evidence, Penggunaan AI, dan Feedback
+
+- **Penggunaan AI (*Review & Authority*):** Saya menggunakan AI setelah wawancara untuk mengevaluasi *problem statement* agar terbebas dari penyebutan "solusi spesifik" (contoh: awalnya saya menyebutkan "aplikasi Android bunyi", lalu AI membantu merumuskannya menjadi kemampuan fungsional: "peringatan sensorik pasif"). Hal ini melatih *authority* saya dalam membedakan masalah pengguna vs. solusi teknis.
+- **Feedback & Refleksi Desainer:** Keinginan saya memoles UI Figma dengan grafik warna-warni demi portofolio pribadi ternyata membutakan saya dari kebutuhan nyata (*user-centric*). Wawancara singkat ini menjadi momen krusial untuk melakukan *pivot* desain secara ekstrem menuju fungsionalitas murni.
+
+## Self-assessment
+
+| Dimensi | Skor | Alasan / Evidence Singkat |
+|---|---:|---|
+| Person & Character | 4 | Mengeksplorasi kondisi konkret *user* (fisik berlumur lumpur, silau matahari) dan menyingkirkan ego desainer yang hanya peduli keindahan grafis. |
+| Objective & State | 4 | Asumsi awal (visual dashboard) bergeser sepenuhnya menjadi state "Kebutuhan peringatan pasif" berdasarkan temuan empiris. |
+| Repertoire, Language & AI | 4 | Pendalaman dilakukan dengan mendengarkan kondisi lapangan secara terbuka. Proses perumusan *statement* memanfaatkan tinjauan AI agar steril dari penyebutan fitur. |
+| Response & Adaptation | 4 | Solusi diadaptasi drastis (pivot); membuang ide layar sentuh grafis beralih ke perancangan notifikasi berbasis audial/getar pasif. |
+| Agreement, Action & Relationship | 4 | *Problem statement* disepakati dengan perwakilan pengguna, dan secara aktif memandu perubahan arsitektur aplikasi Nusatani. |
+
+**Total: 20/20 — Sangat Kompeten.**
 
 {{< include ../includes/evidence-template.md >}}
+
+***
+
+## Evidence Tambahan
+**Bukti Transkrip Observasi Kebutuhan Lapangan (Discovery):**
+> **[29/09/26, 13:10:05] Fayza:** nabila, gw mau nanya dong untuk riset UI UX gw. menurut lo kalo petani di lapangan dikasih dashboard aplikasi di HP yg isinya grafik kelembapan tanah, mereka bakal sering buka ga sih?
+> **[29/09/26, 13:14:20] Nabila:** hmm jujur kayanya ngga deh fay. lo bayangin aja mereka kan lagi nyangkul, tangannya belepotan lumpur, masa iya harus lap tangan dulu buat scroll HP?
+> **[29/09/26, 13:17:10] Fayza:** ohhh iya bener juga anjir, tangannya kotor ya.. trus kendala lainnya apa kira2 bil?
+> **[29/09/26, 13:19:40] Nabila:** cahaya matahari sih. di sawah kan panas mentereng, layar HP suka silau ga keliatan. mereka kynya butuh yg gaperlu dilihat langsung deh, pokoknya tau beres aja.
+> **[29/09/26, 13:21:05] Fayza:** oh paham paham, berarti sebenernya mereka butuh cara biar tau tanahnya kritis tanpa harus nyentuh layar ya? misal alert bunyi suara / geter keras doang gitu?
+> **[29/09/26, 13:22:15] Nabila:** yuppp exactly! yg penting fungsional tanpa nambah ribet kerjaan mreka.
+
+::: {.callout-note title="Penilaian Asesor"}
+**Skor:** - / 20
+**Evidence yang mendukung:** -
+**Prioritas perbaikan:** -
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
